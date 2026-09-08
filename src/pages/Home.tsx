@@ -102,14 +102,6 @@ export const Home: React.FC = () => {
             </div>
           </div>
         </div>
-
-        {/* Floating Information Badges (Bottom Right inside Hero) */}
-        <div className="hidden lg:flex absolute bottom-8 right-8 lg:right-12 bg-black/40 backdrop-blur-md rounded-2xl p-4 border border-white/20 text-white items-center gap-3.5 max-w-xs shadow-xl z-10">
-          <div>
-            <p className="text-xs font-bold text-white">Kompleks Masjid Jami</p>
-            <p className="text-[11px] text-emerald-200/80">Pusat Ibadah dan Halaqah Al-Quran 4.5 Ha</p>
-          </div>
-        </div>
       </section>
 
       {/* 2. STATISTIK PESANTREN */}
