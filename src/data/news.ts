@@ -28,11 +28,11 @@ export const newsData: NewsItem[] = [
     date: '28 April 2026',
     author: 'Tim Akademik',
     readTime: '3 menit baca',
-    excerpt: 'Prestasi membanggakan kembali ditorehkan santri Al-Hikmah dalam ajang Kompetisi Sains Madrasah dan Olimpiade Bahasa Arab Nasional.',
+    excerpt: 'Prestasi membanggakan kembali ditorehkan santri Ar-Rozzaq dalam ajang Kompetisi Sains Madrasah dan Olimpiade Bahasa Arab Nasional.',
     content: [
       'Keluarga besar Pesantren kembali bersyukur atas capaian gemilang dua santri terbaiknya dalam ajang bergengsi tingkat nasional. Ananda Muhammad Fatih (Kelas XI MA) berhasil menyabet medali emas bidang Fisika Terintegrasi pada Kompetisi Sains Madrasah (KSM).',
       'Sementara itu, ananda Aisyah Zahra (Kelas VIII MTs) sukses mengukir prestasi sebagai Juara 1 Nasional dalam Olimpiade Bahasa Arab (OBA) ke-9 yang diselenggarakan oleh Forum Musyawarah Guru Bahasa Arab se-Indonesia.',
-      'Kepala Sekolah MA Al-Hikmah menuturkan bahwa prestasi ini merupakan buah dari pembinaan terarah melalui program pengayaan sains intensif dan lingkungan berbahasa Arab aktif sehari-hari.',
+      'Kepala Sekolah MA Ar-Rozzaq menuturkan bahwa prestasi ini merupakan buah dari pembinaan terarah melalui program pengayaan sains intensif dan lingkungan berbahasa Arab aktif sehari-hari.',
       '"Kami membuktikan bahwa santri yang mendalami ilmu agama dan tahfidz tidak pernah tertinggal dalam sains dan riset modern. Justru nilai-nilai Al-Qur\'an menjadi pendorong kuat untuk terus berprestasi," ungkap beliau.'
     ],
     image: 'https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&w=1000&q=80',

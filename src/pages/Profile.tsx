@@ -44,7 +44,7 @@ export const Profile: React.FC = () => {
       <PageHero
         badge="Tentang Kami"
         title="Profil Pesantren"
-        description="Mengenal lebih dekat identitas, sejarah, visi-misi, serta kepemimpinan Pesantren Modern Al-Hikmah."
+        description="Mengenal lebih dekat identitas, sejarah, visi-misi, serta kepemimpinan Pesantren Modern Ar-Rozzaq."
         breadcrumbCurrent="Profil"
       />
 

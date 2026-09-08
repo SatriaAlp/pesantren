@@ -3,7 +3,7 @@ import { FacilityItem } from '../types';
 export const facilitiesData: FacilityItem[] = [
   {
     id: 'masjid',
-    name: 'Masjid Jami\' Baitul Hikmah',
+    name: 'Masjid Jami\' Ar-Rozzaq',
     category: 'ibadah',
     description: 'Pusat spiritual dan kegiatan peribadatan pesantren berkapasitas 1.500 jamaah. Dilengkapi tata suara akustik prima, penyejuk udara, dan karpet lembut untuk kenyamanan iktikaf serta halaqah Al-Qur\'an.',
     image: 'https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=1200&q=80',
@@ -87,7 +87,7 @@ export const facilitiesData: FacilityItem[] = [
   },
   {
     id: 'aula',
-    name: 'Auditorium Serbaguna Al-Hikmah',
+    name: 'Auditorium Serbaguna Ar-Rozzaq',
     category: 'penunjang',
     description: 'Gedung pertemuan megah untuk wisuda kelulusan, seminar nasional, musabaqah tilawatil Qur\'an, haflah akhirussanah, dan penyambutan wali santri.',
     image: 'https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1000&q=80',

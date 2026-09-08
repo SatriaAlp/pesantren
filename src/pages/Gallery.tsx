@@ -54,7 +54,7 @@ export const Gallery: React.FC = () => {
       <PageHero
         badge="Dokumentasi Visual"
         title="Galeri Dokumentasi Pesantren"
-        description="Rekam jejak kebersamaan, suasana kegiatan belajar, peribadatan santri, serta keasrian fasilitas kampus Pesantren Modern Al-Hikmah."
+        description="Rekam jejak kebersamaan, suasana kegiatan belajar, peribadatan santri, serta keasrian fasilitas kampus Pesantren Modern Ar-Rozzaq."
         breadcrumbCurrent="Galeri"
       />
 

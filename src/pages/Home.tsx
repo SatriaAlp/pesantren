@@ -59,7 +59,7 @@ export const Home: React.FC = () => {
         {/* Full Edge-to-Edge Background Mosque Image */}
         <img
           src="/images/pesantren-hero.png"
-          alt="Kompleks Masjid dan Lingkungan Pesantren Modern Al-Hikmah"
+          alt="Kompleks Masjid dan Lingkungan Pesantren Modern Ar-Rozzaq"
           className="absolute inset-0 w-full h-full object-cover object-center scale-105 transform hover:scale-100 transition-transform duration-1000 ease-out"
         />
 
@@ -187,7 +187,7 @@ export const Home: React.FC = () => {
                 Menjadi Rumah untuk Belajar, Bertumbuh, dan Berakhlak
               </h2>
               <p className="text-sm sm:text-base text-[#6B7280] leading-relaxed">
-                Pesantren Al-Hikmah berikhtiar memadukan kedalaman tradisi keilmuan Islam klasik dengan kecakapan ilmu pengetahuan modern. Di sini, santri tidak hanya ditempa kemampuan akademis dan hafalan Al-Qur'an, tetapi juga dilatih adab, kemandirian, dan kepedulian sosial.
+                Pesantren Ar-Rozzaq berikhtiar memadukan kedalaman tradisi keilmuan Islam klasik dengan kecakapan ilmu pengetahuan modern. Di sini, santri tidak hanya ditempa kemampuan akademis dan hafalan Al-Qur'an, tetapi juga dilatih adab, kemandirian, dan kepedulian sosial.
               </p>
               <p className="text-sm sm:text-base text-[#6B7280] leading-relaxed">
                 Dengan sistem asrama penuh (boarding school), santri mendapatkan bimbingan 24 jam dalam lingkungan kondusif yang menunjang ketenangan belajar, pembiasaan ibadah, dan penguasaan bahasa internasional.
@@ -277,7 +277,7 @@ export const Home: React.FC = () => {
                   <p className="text-xs text-[#6B7280]">{leaderProfile.role} | {leaderProfile.education}</p>
                 </div>
                 <div className="hidden sm:block text-right">
-                  <span className="font-serif italic text-xs text-[#C9A96E] font-semibold">Al-Hikmah Boarding School</span>
+                  <span className="font-serif italic text-xs text-[#C9A96E] font-semibold">Ar-Rozzaq Boarding School</span>
                 </div>
               </div>
             </div>
@@ -558,7 +558,7 @@ export const Home: React.FC = () => {
             <WhatsAppButton
               size="lg"
               label="Hubungi Kami via WhatsApp"
-              message="Assalamu'alaikum, saya ingin bertanya dan mendapatkan informasi lengkap mengenai Pesantren Al-Hikmah."
+              message="Assalamu'alaikum, saya ingin bertanya dan mendapatkan informasi lengkap mengenai Pesantren Ar-Rozzaq."
             />
           </div>
         </div>

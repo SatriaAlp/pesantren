@@ -120,7 +120,7 @@ export const Education: React.FC = () => {
                 Memadukan Kedalaman Tradisi dan Keunggulan Sains Modern
               </h2>
               <p className="text-sm sm:text-base text-[#6B7280] leading-relaxed">
-                Pola pendidikan di Pesantren Al-Hikmah berlandaskan konsep *Ta'dib*, *Ta'lim*, dan *Tarbiyah*. Seluruh aspek kehidupan santri selama 24 jam di asrama dirancang menjadi media pembelajaran: keteladanan akhlak, pembiasaan ibadah sunnah, kemandirian mengatur waktu, dan kebersamaan ukhuwah.
+                Pola pendidikan di Pesantren Ar-Rozzaq berlandaskan konsep *Ta'dib*, *Ta'lim*, dan *Tarbiyah*. Seluruh aspek kehidupan santri selama 24 jam di asrama dirancang menjadi media pembelajaran: keteladanan akhlak, pembiasaan ibadah sunnah, kemandirian mengatur waktu, dan kebersamaan ukhuwah.
               </p>
               <p className="text-sm sm:text-base text-[#6B7280] leading-relaxed">
                 Kami tidak memisahkan antara ilmu agama dan sains. Keduanya merupakan ayat-ayat Allah—baik yang termaktub dalam firman-Nya (qauliyah) maupun yang terbentang di alam semesta (kauniyah).

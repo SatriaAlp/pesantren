@@ -66,7 +66,7 @@ export const Navbar: React.FC = () => {
           <Link
             to="/"
             className="flex items-center gap-3 group focus:outline-none"
-            aria-label="Beranda Pesantren Al-Hikmah"
+            aria-label="Beranda Pesantren Ar-Rozzaq"
           >
             {/* Elegant emblem icon */}
             <div className="w-10 h-10 rounded-xl bg-[#EDF5F0] border border-[#d6e8dc] flex items-center justify-center text-[#315C4A] shadow-xs group-hover:bg-[#315C4A] group-hover:text-white transition-all duration-200">
@@ -74,7 +74,7 @@ export const Navbar: React.FC = () => {
             </div>
             <div className="flex flex-col">
               <span className="text-base sm:text-lg font-bold tracking-tight text-[#1F2933] font-serif leading-none">
-                AL-HIKMAH
+                AR-ROZZAQ
               </span>
               <span className="text-[10px] tracking-wider uppercase font-semibold text-[#6B7280] mt-1">
                 Islamic Boarding School
@@ -108,7 +108,7 @@ export const Navbar: React.FC = () => {
           {/* Desktop Action Button */}
           <div className="hidden lg:flex items-center gap-3">
             <a
-              href={`https://wa.me/${pesantrenInfo.contact.whatsappNumberOnly}?text=${encodeURIComponent("Assalamu'alaikum, saya ingin informasi seputar Pesantren Al-Hikmah.")}`}
+              href={`https://wa.me/${pesantrenInfo.contact.whatsappNumberOnly}?text=${encodeURIComponent("Assalamu'alaikum, saya ingin informasi seputar Pesantren Ar-Rozzaq.")}`}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-[#315C4A] hover:bg-[#28493b] text-white px-4 py-2 text-xs font-semibold rounded-lg shadow-sm hover:shadow transition-all duration-200"
@@ -160,7 +160,7 @@ export const Navbar: React.FC = () => {
 
           <div className="pt-6 border-t border-[#E8EAE9] mt-6 flex flex-col gap-3">
             <a
-              href={`https://wa.me/${pesantrenInfo.contact.whatsappNumberOnly}?text=${encodeURIComponent("Assalamu'alaikum, saya ingin konsultasi mengenai Pesantren Al-Hikmah.")}`}
+              href={`https://wa.me/${pesantrenInfo.contact.whatsappNumberOnly}?text=${encodeURIComponent("Assalamu'alaikum, saya ingin konsultasi mengenai Pesantren Ar-Rozzaq.")}`}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 w-full py-3.5 bg-[#315C4A] text-white rounded-xl font-semibold text-sm shadow-sm"

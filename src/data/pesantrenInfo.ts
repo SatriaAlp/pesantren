@@ -1,7 +1,7 @@
 import { PesantrenInfo, Milestone, LeaderProfile, DailyScheduleItem } from '../types';
 
 export const pesantrenInfo: PesantrenInfo = {
-  name: "Pesantren Modern Al-Hikmah",
+  name: "Pesantren Modern Ar-Rozzaq",
   tagline: "Membangun Generasi Qurani, Berilmu, dan Berakhlak Mulia",
   foundedYear: 2005,
   accreditation: "Terakreditasi A (Unggul)",
@@ -19,7 +19,7 @@ export const pesantrenInfo: PesantrenInfo = {
     phone: "+62 251 8259 888",
     whatsapp: "+62 812 3456 7890",
     whatsappNumberOnly: "6281234567890",
-    email: "info@alhikmah-pesantren.sch.id",
+    email: "info@arrozzaq-pesantren.sch.id",
     officeHours: "Senin - Sabtu: 08.00 - 16.00 WIB"
   },
   socialMedia: {
@@ -53,7 +53,7 @@ export const historyMilestones: Milestone[] = [
   {
     year: "2015",
     title: "Pengembangan Pendidikan Formal",
-    description: "Membuka jenjang formal MTs dan MA Al-Hikmah berakreditasi 'A', dengan penguatan kurikulum sains, sains teknologi, dan penguasaan dwibahasa (Arab-Inggris)."
+    description: "Membuka jenjang formal MTs dan MA Ar-Rozzaq berakreditasi 'A', dengan penguatan kurikulum sains, sains teknologi, dan penguasaan dwibahasa (Arab-Inggris)."
   },
   {
     year: "2020",

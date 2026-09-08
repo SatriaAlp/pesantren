@@ -15,7 +15,7 @@ export const WhatsAppButton: React.FC<WhatsAppButtonProps> = ({
   className = "",
   size = "md",
   variant = "inline",
-  message = "Assalamu'alaikum, saya ingin bertanya dan mendapatkan informasi mengenai Pesantren Al-Hikmah."
+  message = "Assalamu'alaikum, saya ingin bertanya dan mendapatkan informasi mengenai Pesantren Ar-Rozzaq."
 }) => {
   const encodedMessage = encodeURIComponent(message);
   const waUrl = `https://wa.me/${pesantrenInfo.contact.whatsappNumberOnly}?text=${encodedMessage}`;

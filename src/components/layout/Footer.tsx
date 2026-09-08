@@ -16,7 +16,7 @@ export const Footer: React.FC = () => {
               </div>
               <div className="flex flex-col">
                 <span className="text-lg font-bold tracking-tight text-[#1F2933] font-serif leading-tight">
-                  AL-HIKMAH
+                  AR-ROZZAQ
                 </span>
                 <span className="text-[10px] tracking-wider uppercase font-semibold text-[#6B7280]">
                   Modern Islamic Boarding School

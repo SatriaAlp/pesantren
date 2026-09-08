@@ -66,7 +66,7 @@ export const Contact: React.FC = () => {
                     size="lg"
                     label="Chat via WhatsApp Resmi"
                     className="w-full"
-                    message="Assalamu'alaikum Warahmatullahi Wabarakatuh, saya ingin menanyakan informasi seputar Pesantren Al-Hikmah."
+                    message="Assalamu'alaikum Warahmatullahi Wabarakatuh, saya ingin menanyakan informasi seputar Pesantren Ar-Rozzaq."
                   />
                 </div>
               </div>
@@ -182,7 +182,7 @@ export const Contact: React.FC = () => {
               {/* Map Container */}
               <div className="rounded-2xl overflow-hidden border border-[#E8EAE9] shadow-sm bg-[#F8FAF9] h-[420px] relative">
                 <iframe
-                  title="Lokasi Pesantren Al-Hikmah"
+                  title="Lokasi Pesantren Ar-Rozzaq"
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3962.8839077977467!2d106.94237197499423!3d-6.661303293333423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69b6574f1b7ea7%3A0x1c8b368739a48972!2sCisarua%2C%20Bogor%20Regency%2C%20West%20Java!5e0!3m2!1sen!2sid!4v1700000000000!5m2!1sen!2sid"
                   width="100%"
                   height="100%"

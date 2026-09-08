@@ -19,7 +19,7 @@ export const galleryData: GalleryItem[] = [
   },
   {
     id: 'gal-3',
-    title: 'Arsitektur Masjid Jami\' Baitul Hikmah',
+    title: 'Arsitektur Masjid Jami\' Ar-Rozzaq',
     category: 'Fasilitas',
     image: 'https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=1200&q=80',
     caption: 'Pusat kegiatan spiritual dan silaturahmi seluruh warga pesantren.',
