@@ -70,10 +70,6 @@ export const Home: React.FC = () => {
         {/* Hero Content aligned to standard container grid */}
         <div className="relative z-10 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl text-left space-y-6">
-            <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full text-xs font-semibold bg-white/10 text-emerald-300 border border-emerald-400/30 backdrop-blur-md">
-              <span>Pendidikan Islam untuk Masa Depan</span>
-            </div>
-
             <h1 className="text-3xl sm:text-5xl lg:text-6xl xl:text-7xl font-extrabold tracking-tight text-white leading-[1.12]">
               Membangun Generasi <span className="text-[#4ADE80]">Qurani</span>, Berilmu, dan Berakhlak Mulia
             </h1>
