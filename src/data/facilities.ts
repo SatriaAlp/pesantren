@@ -6,7 +6,7 @@ export const facilitiesData: FacilityItem[] = [
     name: 'Masjid Jami\' Ar-Rozzaq',
     category: 'ibadah',
     description: 'Pusat spiritual dan kegiatan peribadatan pesantren berkapasitas 1.500 jamaah. Dilengkapi tata suara akustik prima, penyejuk udara, dan karpet lembut untuk kenyamanan iktikaf serta halaqah Al-Qur\'an.',
-    image: 'https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=1200&q=80',
+    image: '/masjid.jpg',
     features: [
       'Kapasitas 1.500 Jamaah',
       'Area Shalat Putra & Putri Terpisah Rapi',

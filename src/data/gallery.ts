@@ -37,7 +37,7 @@ export const galleryData: GalleryItem[] = [
     id: 'gal-5',
     title: 'Haflah Akhirussanah & Wisuda Akbar',
     category: 'Event',
-    image: 'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80',
     caption: 'Momen penuh kebanggaan dan haru kelulusan para santri berprestasi.',
     date: 'Mei 2026'
   },
@@ -77,7 +77,7 @@ export const galleryData: GalleryItem[] = [
     id: 'gal-10',
     title: 'Kajian Kitab Kuning Bersama Pimpinan',
     category: 'Keagamaan',
-    image: 'https://images.unsplash.com/photo-1532012164546-f432f2e3777a?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1585036156171-384164a8c675?auto=format&fit=crop&w=1200&q=80',
     caption: 'Pengajian rutin kitab fiqih dan hadits ba\'da Ashar di aula masjid.',
     date: 'April 2026'
   },

@@ -25,7 +25,7 @@ export const activitiesData: ActivityItem[] = [
     category: 'Olahraga',
     time: 'Setiap Selasa & Sabtu Sore',
     description: 'Melatih konsentrasi, ketenangan emosi, kekuatan fisik, dan fokus membidik sasaran sesuai ajaran sunnah Rasulullah SAW.',
-    image: 'https://images.unsplash.com/photo-1511193311914-0346f16efe90?auto=format&fit=crop&w=800&q=80',
+    image: '/memanah.jpg',
     featured: true
   },
   {
@@ -34,7 +34,7 @@ export const activitiesData: ActivityItem[] = [
     category: 'Seni',
     time: 'Setiap Rabu Sore',
     description: 'Pembinaan seni tulis ayat suci Al-Qur\'an dengan beragam gaya kaligrafi klasik seperti Tsuluts, Naskhi, Diwani, dan Farisi.',
-    image: 'https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1584824486509-112e4181ff6b?auto=format&fit=crop&w=800&q=80',
     featured: true
   },
   {
@@ -61,7 +61,7 @@ export const activitiesData: ActivityItem[] = [
     category: 'Keagamaan',
     time: 'Setiap Jumat Ba\'da Ashar',
     description: 'Kajian hadits nabawi bersama Pimpinan Pesantren yang mendudukkan matan hadits beserta aplikasinya dalam kehidupan modern.',
-    image: 'https://images.unsplash.com/photo-1532012164546-f432f2e3777a?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1585036156171-384164a8c675?auto=format&fit=crop&w=800&q=80',
     featured: false
   },
   {

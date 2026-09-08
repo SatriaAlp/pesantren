@@ -16,7 +16,7 @@ export const newsData: NewsItem[] = [
       'Dari total 180 santri yang diwisuda pada tahun ini, sebanyak 45 santri berhasil mengkhatamkan setoran hafalan Al-Qur\'an 30 Juz mutqin, sementara puluhan santri lainnya menuntaskan capaian hafalan 10 hingga 20 Juz.',
       'Acara ditutup dengan prosesi sungkeman santri kepada orang tua masing-masing, diiringi lantunan doa dan nasyid penuh haru yang menggetarkan hati seluruh hadirin.'
     ],
-    image: 'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1000&q=80',
+    image: 'https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1000&q=80',
     tags: ['Wisuda', 'Tahfidz', 'Santri', 'Haflah'],
     featured: true
   },
